@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "this was built to complete the freeCodeCamp.org timestamp-microservice api project",
   "main": "index.js",
+  "repository": "https://github.com/dsoucie/timestamp-microservice",
   "scripts": {
     "start": "node index.js"
   },
