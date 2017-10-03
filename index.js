@@ -20,4 +20,4 @@ app.get('/:input', (request, response) => {
   }
 });
 
-app.listen(7777);
+app.listen(8080);
