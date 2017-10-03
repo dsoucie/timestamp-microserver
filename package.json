@@ -1,14 +1,17 @@
 {
   "name": "timestamp-microservice",
   "version": "1.0.0",
-  "description": "this was built for the freeCodeCamp.org timestamp microservice api project",
+  "description": "this was built to complete the freeCodeCamp.org timestamp-microservice api project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "dsoucie",
+  "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "express": "^4.16.1"
+  "dependencies": {
+    "express": "^4.16.1",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-rc.4",
+    "sugar-date": "^2.0.4"
   }
 }
